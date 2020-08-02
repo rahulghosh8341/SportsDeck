@@ -1,0 +1,105 @@
+{
+"url" : {
+"match" : "http://mapps.cricbuzz.com/cbzios/match"
+},
+"matches" :[
+{
+"match_id" : "23255",
+"series_id" : "2889",
+"series_name" : "Ireland tour of England 2020",
+"data_path" : "2020/2020_ENG_IRE/ENG_IRE_AUG01/",
+"header" : {
+"start_time" : "1596286800",
+"end_time" : "1596315600",
+"state" : "inprogress",
+"match_desc" : "2nd ODI",
+"type" : "ODI",
+"state_title" : "In Progress",
+"toss" : "Ireland elect to bat",
+"status" : "ENG need 183 runs"
+}
+,
+"alerts" : "1",
+"venue" : {
+"name" : "The Rose Bowl",
+"location" : "Southampton, England"
+,
+"timezone": "+01:00",
+"lat": "50.924131",
+"long": "-1.322163"
+}
+,
+"bat_team" : {"id" : "9",
+"innings":[
+{
+"id" : "2",
+"score" : "30",
+"wkts" : "1"
+,"overs" : "3.5"
+}
+]}
+,
+"bow_team" : {"id" : "27",
+"innings":[
+{
+"id" : "1",
+"score" : "212",
+"wkts" : "9"
+,"overs" : "50"
+}
+]}
+,
+"batsman" : [
+{
+"id" : "6642",
+"name" : "J Vince",
+"strike":"1",
+"r" : "4",
+"b" : "8",
+"4s" : "1",
+"6s" : "0"
+}
+,{
+"id" : "6507",
+"name" : "Bairstow",
+"strike":"0",
+"r" : "23",
+"b" : "12",
+"4s" : "5",
+"6s" : "0"
+}
+],
+"bowler" : [
+{
+"id" : "11128",
+"name" : "Joshua Little",
+"o" : "1.5",
+"m" : "0",
+"r" : "17",
+"w" : "0"
+}
+]
+,
+"team1" : {
+"id" : "9",
+"name":"England",
+"s_name" :"ENG"
+,"flag":"1"
+}
+,
+"team2" : {
+"id" : "27",
+"name":"Ireland",
+"s_name" :"IRE"
+,"flag":"1"
+}
+,
+"srs_category" :[0,1]
+}
+
+],
+"srs_category": [
+{"id": 0,"title": "All Matches"}
+,{"id": 1,"title": "International Matches"}
+,{"id": 3,"title": "Domestic Matches"}
+]}	
