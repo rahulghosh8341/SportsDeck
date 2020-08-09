@@ -4,9 +4,9 @@
 "bat_team_id" : "9",
 "bat_team_name" : "England",
 "bowl_team_id" : "27",
-"score" : "40",
+"score" : "44",
 "wkts" : "1",
-"ovr" : "5.2",
+"ovr" : "5.4",
 "batsmen": [
 {
 "id":"6534",
@@ -27,9 +27,9 @@
 ,{
 "id":"6642",
 "out_desc":"batting",
-"r":"5",
-"b":"13",
-"4s":"1",
+"r":"9",
+"b":"15",
+"4s":"2",
 "6s":"0"
 }
 ],
@@ -47,9 +47,9 @@
 }
 ,{
 "id": "11128",
-"o":"2.2",
+"o":"2.4",
 "m":"0",
-"r":"17",
+"r":"21",
 "w":"0",
 "n":"0",
 "wd":"2"
@@ -304,6 +304,6 @@
 ]
 }
 ],
-"status" : "ENG need 173 runs",
+"status" : "ENG need 169 runs",
 "state" : "inprogress"
 }
